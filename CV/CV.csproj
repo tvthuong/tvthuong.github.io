@@ -57,7 +57,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="img\profile.png" />
-    <Content Include="package-lock.json" />
     <Content Include="package.json" />
     <Content Include="scss\resume.scss" />
     <Content Include="scss\_bootstrap-overrides.scss" />
